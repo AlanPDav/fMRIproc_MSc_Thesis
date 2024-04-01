@@ -16,7 +16,7 @@ Prerequisites
   
 Installation Steps
 * 		Install Python 3.x from python.org
-* 		Download and Install RStudio from [RStudio's Download Page](https://posit.co/products/open-source/rstudio/)
+* 		Download and Install RStudio from https://posit.co/products/open-source/rstudio/
 * 		Install FSL following the instructions at fsl.fmrib.ox.ac.uk
   
 Usage
