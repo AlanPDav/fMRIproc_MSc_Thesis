@@ -16,13 +16,7 @@ Prerequisites
   
 Installation Steps
 * 		Install Python 3.x from python.org
-* 		Download and Install RStudio
-* RStudio enhances R's functionality, providing a convenient GUI and additional tools for coding and debugging. To install RStudio:
-* Navigate to [RStudio's Download Page](https://posit.co/products/open-source/rstudio/): Go to RStudio Download to view the available versions of RStudio.
-* Select the Free Version: Scroll down to the "RStudio Desktop" section and click on the "Download" button under the free version called RStudio Desktop Open Source License.
-* Choose Your Operating System: Find the installer link that matches your operating system (Windows, Mac, or Linux) and click on it to download the RStudio installer.
-* Install RStudio: Once the download is complete, open the installer file and follow the prompts to install RStudio on your system.
-After completing these steps, you will have both R and RStudio installed and ready for use. You can now proceed with running the scripts and conducting your analysis.
+* 		Download and Install RStudio from [RStudio's Download Page](https://posit.co/products/open-source/rstudio/)
 * 		Install FSL following the instructions at fsl.fmrib.ox.ac.uk
   
 Usage
