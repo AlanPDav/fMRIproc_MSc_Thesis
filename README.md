@@ -15,9 +15,9 @@ Prerequisites
 * FSL
   
 Installation Steps
-* Install Python 3.x from python.org
-* Download and Install RStudio from https://posit.co/products/open-source/rstudio/
-* Install FSL following the instructions at fsl.fmrib.ox.ac.uk
+* Install Python 3.x from [python.org](https://www.python.org)
+* Download and Install [RStudio](https://posit.co/products/open-source/rstudio/) 
+* Install FSL following the instructions at [fsl.fmrib.ox.ac.uk](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/)
   
 Usage
 Scripts are organized by preprocessing and analysis stages:
