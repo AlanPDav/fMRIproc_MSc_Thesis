@@ -15,19 +15,19 @@ Prerequisites
 * FSL
   
 Installation Steps
-* 		Install Python 3.x from python.org
-* 		Download and Install RStudio from https://posit.co/products/open-source/rstudio/
-* 		Install FSL following the instructions at fsl.fmrib.ox.ac.uk
+* Install Python 3.x from python.org
+* Download and Install RStudio from https://posit.co/products/open-source/rstudio/
+* Install FSL following the instructions at fsl.fmrib.ox.ac.uk
   
 Usage
 Scripts are organized by preprocessing and analysis stages:
-*    Data Conversion: dcm2bids.SGE
-*    Basic Preprocessing: fsl_pp.sh and fsl_pp_edit.sh
-*    Registration and Normalization: antsReg.SGE and antsNormCone.SGE
-*    Quality Control: mriqcTMS.SGE
-*    ROI Analysis/Extraction: cone_roi_csv.sh
-*    Statistical Analysis/Correlation Mapping: corrMapsMean.sh
-*    Advanced Analysis (e.g., Connectivity): stimZoneHCcorrs_CPACaddimexConn.sh
+* Data Conversion: dcm2bids.SGE
+* Basic Preprocessing: fsl_pp.sh and fsl_pp_edit.sh
+* Registration and Normalization: antsReg.SGE and antsNormCone.SGE
+* Quality Control: mriqcTMS.SGE
+* ROI Analysis/Extraction: cone_roi_csv.sh
+* Statistical Analysis/Correlation Mapping: corrMapsMean.sh
+* Advanced Analysis (e.g., Connectivity): stimZoneHCcorrs_CPACaddimexConn.sh
   
 Contact
 If you have any questions or would like to collaborate on the project, feel free to reach out.
