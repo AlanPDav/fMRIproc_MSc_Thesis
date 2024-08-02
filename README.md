@@ -14,14 +14,10 @@ This repository contains the source code and scripts used in my master's thesis 
 To use these scripts, you will need to have RStudio, FSL, and Python 3 installed. Here are the basic steps to set up the required environment.
 
 ### Prerequisites
-- Python 3.x
-- RStudio
 - FSL
 
 ### Installation Steps
-1. Install Python 3.x from [python.org](https://www.python.org/)
-2. Download and Install [RStudio](https://rstudio.com/)
-3. Install FSL following the instructions at [fsl.fmrib.ox.ac.uk](https://fsl.fmrib.ox.ac.uk)
+1. Install FSL following the instructions at [fsl.fmrib.ox.ac.uk](https://fsl.fmrib.ox.ac.uk)
 
 ## Usage
 
